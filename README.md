@@ -8,7 +8,8 @@ Final project for the Building AI course
 
 ##Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length!
+my name is noah i am 12 years old i like having AI solve my problems. when i grow up i want to be a computure scientist. and my hobby is playing video games, making video games and other things. and i want to master the basics of AI.
 
 
 ## Background
